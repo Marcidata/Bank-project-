@@ -1,0 +1,5 @@
+.gitignore
+.name/Bank-migration.iml
+dataSources.xml/misc.xml
+modules.xml
+.vcs.xml
